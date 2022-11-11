@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
