@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
