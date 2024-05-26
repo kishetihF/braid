@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Fix docs links (#7096)
